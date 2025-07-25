@@ -27,6 +27,7 @@ A minimal Python-based bootloader and kernel simulation.
 ```bash
 pip install py-cui termcolor
 python bootloader.py
+```
 
 ## Contact & Links
 
