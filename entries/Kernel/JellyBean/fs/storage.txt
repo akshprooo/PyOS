@@ -1,0 +1,2 @@
+folders=aksh,code,tests,tests/test1
+files=aksh/profile.txt,code/main.js,tests/test1.py
